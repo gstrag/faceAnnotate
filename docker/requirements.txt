@@ -1,0 +1,15 @@
+numpy==1.26.3
+pandas
+matplotlib
+opencv-python # cv2
+imageio
+imageio-ffmpeg
+pyyaml # yaml
+tqdm
+argparse
+cython
+scikit-image # skimage
+scipy
+onnx
+onnxruntime
+gradio

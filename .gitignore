@@ -1,0 +1,6 @@
+.vscode/
+DMUE/weights/
+3DDFA_V2/weights/
+FairFace/res34_fair_align_multi_4_20190809.pt
+FairFace/res34_fair_align_multi_7_20190809.pt
+FairFace/checkpoints
