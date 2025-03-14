@@ -1,4 +1,4 @@
-This repository contains a project to automatically extract multiple attributes from face images.
+This repository contains code to automatically extract multiple attributes from face images.
 
 The attributes are:
 - ethnicity (4 classes)
